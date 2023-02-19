@@ -17,3 +17,7 @@ it’s time to make them alive! The first step is to “design” / “sketch”
 - 2-common.css - css file for global style (i.e. the body style)
 - 2-header.css - css file for header style 
 - 2-footer.css - css file for footer style
+- 3-index.html - displays a header and footer by using CSS files with a favicon
+- 3-common.css - for the global style (i.e body style)
+- 3-header.css - for the header style
+- 3-footer.css - for the footer style
