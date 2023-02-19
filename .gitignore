@@ -223,3 +223,8 @@ dmypy.json
 main_test*.py
 .idea/
 file.json
+
+#w3 validator
+
+w3c_validator.py
+W3C-Validator/
