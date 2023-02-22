@@ -29,11 +29,13 @@ section.filters div.locations, section.filters div.amenities {
 /* a title*/
 div.locations h3, div.amenities h3 {
         font-weight: 600;
+	margin-bottom: 0px;
 }
 /* a sub-title*/
 div.locations h4, div.amenities h4 {
 	font-size: 14px;
 	font-weight: 400;
+	margin: 4px auto;
 }
 div.locations {
 	border-right: #DDDDDD 1px solid;
