@@ -21,3 +21,10 @@ it’s time to make them alive! The first step is to “design” / “sketch”
 - 3-common.css - for the global style (i.e body style)
 - 3-header.css - for the header style
 - 3-footer.css - for the footer style
+- 4-index.html - displays a header, footer and a filters box with a search button
+- 4-common.css - for the global style (body and .container styles)
+- 4-filters.css - for the filters style
+- 5-index.html - displays a header, footer and a filters box with Locations and Amenities filters
+- 5-filters.css - updated file for the filters style for location and amenities filters
+- 6-index.html - displays a header, footer and a filters box with dropdown on hover
+- 6-filters.css - updated file for the filters style for popover class and ul 
