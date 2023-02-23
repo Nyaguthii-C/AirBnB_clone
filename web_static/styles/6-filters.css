@@ -40,7 +40,10 @@ div.locations h4, div.amenities h4 {
 div.locations {
         border-right: #DDDDDD 1px solid;
 }
-/*popover locations and amenities on hover*/
+/*
+* popover locations and amenities on hover
+* position - relative enables the dropdown stay on top of other visualization below 
+*/
 ul.popover {
 	display: none;
 	background-color: #FAFAFA;
@@ -49,6 +52,7 @@ ul.popover {
 	border-radius: 4px;
 	list-style-type: none;
 	text-align: left;
+	position: relative;
 }
 section.filters div.locations:hover > ul, section.filters div.amenities:hover > ul  {
 	display: block;
