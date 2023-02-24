@@ -28,3 +28,5 @@ it’s time to make them alive! The first step is to “design” / “sketch”
 - 5-filters.css - updated file for the filters style for location and amenities filters
 - 6-index.html - displays a header, footer and a filters box with dropdown on hover
 - 6-filters.css - updated file for the filters style for popover class and ul 
+- 7-index.html - update index.html to add places
+- 7-places.css - add style for popover class
